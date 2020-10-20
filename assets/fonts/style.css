@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Aller_Lt';
+   font-display: swap;
+   src: url('Aller_Lt/font.ttf');
+}
+@font-face {
+   font-family: 'GothamSSm-Light';
+   font-display: swap;
+   src: url('GothamSSm-Light/font.ttf');
+}
