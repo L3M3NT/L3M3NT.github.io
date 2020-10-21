@@ -7,7 +7,7 @@
       "title": "Mobirise 5",
       "styling": {
         "primaryColor": "#040dbf",
-        "secondaryColor": "#040dbf",
+        "secondaryColor": "#0001c2",
         "successColor": "#c2c2c2",
         "infoColor": "#47b5ed",
         "warningColor": "#FFE161",
@@ -31,7 +31,8 @@
       },
       "additionalSetColors": [
         "#040dbf",
-        "#c2c2c2"
+        "#c2c2c2",
+        "#0001c2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -86,7 +87,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
