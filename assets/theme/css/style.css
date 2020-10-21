@@ -841,6 +841,7 @@ body {
   color: #ffffff;
   border-radius: 0;
   border: 0;
+  background: hsla(0,0%,78%,1.00);
   font-size: 1.1rem;
   line-height: 1.5;
   margin-bottom: 1.875rem;
@@ -850,7 +851,7 @@ body {
 }
 
 .alert.alert-form::after {
-  background-color: inherit;
+  background-color: #b6b8ba;
   bottom: -7px;
   content: "";
   display: block;
