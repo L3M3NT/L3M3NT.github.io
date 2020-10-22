@@ -543,7 +543,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
   color: #232323;
 }
 .alert-success {
-  background-color: #70c770;
+  background-color:#0001C2 ;
 }
 .alert-info {
   background-color: #47b5ed;
