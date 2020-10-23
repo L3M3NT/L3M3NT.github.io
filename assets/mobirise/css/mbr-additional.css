@@ -543,6 +543,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
   color: #232323;
 }
 .alert-success {
+  font-family:'Jost', sans-serif; 
   background-color:#0001C2 ;
 }
 .alert-info {
