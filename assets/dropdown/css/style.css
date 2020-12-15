@@ -269,8 +269,35 @@
 	width: 100%;
 }
 
+@media (min-aspect-ratio: 16/9){
+#bg-v {
+	position: absolute;
+	width: 100%;
+}	
+width:100%;
+	h
+}
 
 
 
 
 
+
+
+.preloader {
+	  align-items: center;
+  background: black;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  left: 0;
+  position: fixed;
+  top: 0;
+  transition: opacity 0.3s linear;
+  width: 100%;
+  z-index: 9999;
+}
+.preloader img{
+	width: 50%;
+	height: 50%;
+}
