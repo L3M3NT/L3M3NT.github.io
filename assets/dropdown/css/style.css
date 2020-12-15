@@ -297,7 +297,26 @@ width:100%;
   width: 100%;
   z-index: 9999;
 }
+
+
+
+
+.preloader img{
+	height: 50%;
+	width: 20vh;
+}
+.preloader img{
+	width: 50%;
+	height: 5%;
+}
 .preloader img{
 	width: 50%;
 	height: 50%;
+}
+
+#hL {
+margin-top: 10%;
+	width: 250px;
+	height: 250px;
+	
 }
